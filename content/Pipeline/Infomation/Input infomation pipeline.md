@@ -1,3 +1,4 @@
+![[simpread_pipeline.png]]
 
 This is a pipeline to collect pages you read in the browser into obsidian.
 
