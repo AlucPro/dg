@@ -2,6 +2,9 @@
 
 | Book                                                                            | Watch Time | Rating |
 | ------------------------------------------------------------------------------- | ---------- | ------ |
+| [禅与摩托车维修艺术](https://book.douban.com/subject/30208077/)                          | 2024-06    | ★★★★   |
+| [摄影师的视界](https://book.douban.com/subject/35170842/)                             | 2024-06    | ★★★★   |
+| [此时此地](https://book.douban.com/subject/35356133/)                               | 2024-06    | ★★★★   |
 | [摄影曝光艺术](https://book.douban.com/subject/30180564/)                             | 2024-06    | ★★     |
 | [摄影曝光入门](https://book.douban.com/subject/30431469/)                             | 2024-06    | ★★     |
 | [听荒木经唯说](https://book.douban.com/subject/27039353/)                             | 2024-06    | ★★★    |
