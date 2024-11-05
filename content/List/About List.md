@@ -12,6 +12,6 @@ On the other hand, I can imagine what the author was going through through readi
 Inspired by this, I decided to write down some interesting lists in this notebook.
 
 ### Basic
-- 📖 [[List of Book]]
+- 📖 [[List of Book 2024]]
 - 🎬 [[List of Movie]]
 

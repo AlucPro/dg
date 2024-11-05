@@ -20,8 +20,10 @@
 | [L'identité](https://book.douban.com/subject/1030366/)                          | 2024-01   | ★★★    |
 
 ### 杂文
-现在碎片化阅读也很多，所以从 11 月开始，把自己阅读的觉得有价值的一些杂文摘抄放到这里。
+现在碎片化阅读也很多，所以从 11 月开始，把自己阅读的觉得有价值的一些杂文摘抄、读书笔记放到这里。
 * November
+	* 2024-11 断断续续的看[《亲密关系》](https://book.douban.com/subject/26585065/)很久，做了一些读书笔记
+		* [[吸引力]]
 	* 2024-11-01 [在一个充满缺憾的世界里](https://mp.weixin.qq.com/s/Zx0ntJdoosp6xBRNYrmjmQ) By 和菜头
 		* 引起了我对[ADHD 注意缺陷与多动障碍](https://zh.wikipedia.org/zh-hans/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87)的兴趣
 	* 2024-11-01 [透明的孩子打翻了颜料桶](https://www.yeebookr.com/showcase/preview/id-3860?q=0)  By 富貴Faust
